@@ -8,7 +8,7 @@ body{
 
 h1,h2,h3,h4,h5,h6{
     font-family: 'Montserrat', sans-serif;
-    font-weight: 700; /* to make it look bold */
+    font-weight: 700;
 }
 .big-header{
     font-weight: 900;
@@ -61,15 +61,10 @@ p{
 
 #title{
     text-align: left;
-    /* overflow: hidden;//for image */
-    /* With the hidden value, the overflow is clipped, and the rest of the content is hidden */
 }
 #title .container-fluid{ 
-    /* using this to specifically taregt the tite section and overrding over the already added conatiner fluid elemens above 
-    ADDING SPACE BETWEEN title AND .container-fluid IS NECESSARY*/
     padding: 3% 15% 7%;
 }
-
 
 /* download buttons */
 
@@ -116,7 +111,7 @@ p{
 /* Testimonials */
 
 #testimonials{
-    background-color: #ef8172; /* overiding over the colored section defined color as ids have an higher preference than class so this would only be applied in thatsection */
+    background-color: #ef8172;
 }
 .testimonial-text{
     font-size: 3rem;
@@ -128,7 +123,7 @@ p{
     padding: 10px 10px;
 }
 
-     /* press section  */ 
+/* press section  */ 
 
 #press{
     background-color: #ef8172;
@@ -139,7 +134,7 @@ p{
     margin: 20px 20px 50px 20px;
 }
     
-    /* pricing section  */
+/* pricing section  */
 
 #pricing{
     padding: 100px;
@@ -168,7 +163,7 @@ p{
     font-weight: 700;
     font-size: 3rem; 
 }
-/* <!-- Footer --> */
+/* Footer */
 .icon-fet{
     padding: 0.5%;
     font-size: 1.5rem;
