@@ -5,7 +5,6 @@ body{
 }
 
 /* headings */
-
 h1,h2,h3,h4,h5,h6{
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
@@ -24,13 +23,11 @@ p{
 }
 
 /* container */
-
 .container-fluid{
     padding: 7% 15%;
 }
 
 /* sections */
-
 .colored-section{
     background-color: #ff4c68;
     color: white;  
@@ -40,7 +37,6 @@ p{
 }
  
 /* Navigation bar */
-
 .navbar{
     padding-bottom: 4.5rem;
 }
@@ -58,7 +54,6 @@ p{
 }
 
 /* title */
-
 #title{
     text-align: left;
 }
@@ -67,13 +62,11 @@ p{
 }
 
 /* download buttons */
-
 .dwn-btn{
     margin: 5% 4% 3% 0%;
 }
 
 /* image */
-
 .newsoln{
     position: relative;
 }
@@ -85,7 +78,6 @@ p{
 }
 
 /* features */
-
 #features{
    position: relative;
    z-index:1;
@@ -98,7 +90,6 @@ p{
 }
 
 /* icon */
-
 .icon{
     color:#ef8172;
     margin-bottom: 10%;
@@ -109,7 +100,6 @@ p{
 }
 
 /* Testimonials */
-
 #testimonials{
     background-color: #ef8172;
 }
@@ -124,7 +114,6 @@ p{
 }
 
 /* press section  */ 
-
 #press{
     background-color: #ef8172;
     padding-bottom: 4%;
@@ -135,7 +124,6 @@ p{
 }
     
 /* pricing section  */
-
 #pricing{
     padding: 100px;
 }
@@ -157,12 +145,14 @@ p{
         text-align: center;
     }
 }
+
 /* cta section */
 .cta-head{
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     font-size: 3rem; 
 }
+
 /* Footer */
 .icon-fet{
     padding: 0.5%;
